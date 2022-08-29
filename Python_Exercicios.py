@@ -42,6 +42,6 @@ if num1 %2 == 0:
 else:
     print(f'{num1} Impar')'''
 var=0
-while var < 10:
+while var < 100:
     print(var)
     var=var+1
